@@ -17,6 +17,7 @@ matplotlib.use('qt5Agg')
 import matplotlib.pyplot as plt
 from matplotlib import cm
 plt.ion()
+epsilon=sys.float_info.epsilon
 
 # %% codecell
 ######################################################
@@ -523,7 +524,6 @@ if __name__== "__main__":
     ThreeDCh=str(input("Do you want to calculate the f_gamma coordinates for the 3 dimensional Moebius strip animation? (Y/N): "))
     while ThreeDCh not in ['y','n','Y','N','yes','no','YES','NO','Yes','No']:
         ThreeDCh=str(input("I beg you pardon! That\'s not an option, try again please: "))
-    epsilon=sys.float_info.epsilon
     print("Finally, let\'s create a directory to save the information... \n")
 
     # %% codecell
