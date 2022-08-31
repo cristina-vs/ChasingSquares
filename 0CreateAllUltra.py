@@ -485,7 +485,7 @@ def f_gammaM3D(moebius2D):
 
 #GENERATE JORDAN CURVE
 if __name__== "__main__":
-    print("\n **WELCOME TO CHASING SQUARES!** \nCopyright 2021, Ulises Morales-Fuentes & Cristina Villanueva-Segovia, all rights reserved. \nYou are about to create a Jordan curve. ")
+    print("\n **WELCOME TO CHASING SQUARES!** \nCopyright 2021, Ulises Morales-Fuentes & Cristina Villanueva-Segovia, this work is under MIT License.\nYou are about to create a Jordan curve. ")
     p_in= int(input('First choose the number of vertices: '))
     AllTypesCurves=[fFree, fCircle, fEllipse, fCardioid, fFlower, fButterfly, fSpiral, fDragon]
     sc = int(input('Which type of curve do you want to start with? we have:\n 0. Free Polygonal Curve\n 1. Circle (Regular Polygon)\n 2. Ellipse\n 3. Cardioid\n 4. Flower\n 5. Butterfly\n 6. Spiral\n 7. Dragon\nJust type the number of your choice and press return: ' ))
