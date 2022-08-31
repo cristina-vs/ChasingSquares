@@ -4,4 +4,4 @@
 
 <p>Use the .py file to generate a Jordan curve and to calculate coordinates of the image of Vaughan's function.</p>
 
-<p>Use the jupyter files to visualize the image you calculated either in R3, the flat M{obius strip or the 3D M{obius strip</p>
+<p>Use the jupyter files to visualize the image you calculated either in R3, the flat Möbius strip or the 3D M{obius strip</p>
