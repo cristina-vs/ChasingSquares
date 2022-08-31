@@ -8,4 +8,4 @@
 
 <p>Use the .py file to generate a Jordan curve and to calculate coordinates of the image of Vaughan's function defined on your Jordan curve.</p>
 
-<p>Use the jupyter files to visualize the image ponts you computed either in R3, the flat Möbius strip or the 3D Möbius strip using Ipyvolume.</p>
+<p>Use the jupyter files to visualize the computed points either in R3, the flat Möbius strip or the 3D Möbius strip using Ipyvolume.</p>
