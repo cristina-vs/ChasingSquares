@@ -18,6 +18,7 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 plt.ion()
 epsilon=sys.float_info.epsilon
+#enconding: utf-8
 
 # %% codecell
 ######################################################
